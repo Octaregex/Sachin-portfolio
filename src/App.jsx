@@ -1,6 +1,6 @@
 import './App.css'
 import About from './componets/About'
-import Contact from './componets/contact'
+import Contact from './componets/Contact'
 import Experience from './componets/Experience'
 import Home from './componets/Home'
 import Navbar from './componets/Navbar'
